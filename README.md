@@ -60,7 +60,7 @@ Plugins can be very useful and zsh allows to install it, the repository has refe
 First you have to download and install *ZInit*
 
 ```
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma/zinit/master/doc/install.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma-continuum/zinit/main/scripts/install.sh)"
 ```
 
 After the installation, your .zshrc will have the following line:
